@@ -1,4 +1,4 @@
-# 🚀 Smart UI by jQWidgets | Enterprise UI Components
+# 🚀 Smart.UI by jQWidgets | Enterprise UI Components
 
 [![Website](https://img.shields.io/badge/Website-htmlelements.com-00C4B4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.htmlelements.com/)
 [![Documentation](https://img.shields.io/badge/Docs-Read%20Now-4285F4?style=for-the-badge&logo=readthedocs&logoColor=white)](https://www.htmlelements.com/docs/)
@@ -12,12 +12,12 @@ Modern, accessible, lightning-fast web components trusted by **10,000+ developer
 
 ---
 
-## ✨ Why Developers Love Smart UI
+## ✨ Why Developers Love Smart.UI
 
 - **70+ Production-Ready Components** — Data Grid, Scheduler, Gantt, Kanban, Pivot Table, Charts, Tree, Editor, Tabs, and more.
 - **Framework Agnostic** — Native Web Components (Custom Elements) with zero dependencies. Works perfectly with **Angular, React, Next.js, Vue 3, Blazor, and plain JavaScript**.
-- **Enterprise Grade** — Full **WAI-ARIA, WCAG 2.1, Section 508** compliance, RTL support, localization, keyboard navigation, and mobile-first responsive design.
-- **AI-Powered Productivity** — Smart UI MCP Server + AI Assistant to accelerate UI development and code generation.
+- **Enterprise Grade** — Full **WAI-ARIA, WCAG 2.2, Section 508** compliance, RTL support, localization, keyboard navigation, and mobile-first responsive design.
+- **AI-Powered Productivity** — Smart.UI MCP Server + AI Assistant to accelerate UI development and code generation.
 - **Beautiful Theming** — Built-in Material Design, Bootstrap, light/dark modes, plus our free **Theme Builder** for pixel-perfect branding.
 - **Blazing Fast & Lightweight** — Optimized rendering, virtual scrolling, and offline-first architecture.
 
@@ -44,5 +44,5 @@ Email: info@jqwidgets.com
 JQWidgets Ltd — Gold Winner, Visual Studio Magazine Readers’ Choice Awards.
 
 Thank you for visiting!
-Help us grow the community by starring our repos, following Smart UI, and sharing with your network.
+Help us grow the community by starring our repos, following Smart.UI, and sharing with your network.
 Made with ❤️ for developers who ship world-class applications.
